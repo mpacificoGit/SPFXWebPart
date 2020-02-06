@@ -1,0 +1,13 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "poc-rich-text-client-side-solution",
+    "id": "62b7ce9e-839e-45e5-8307-661e26f5f9ca",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true
+  },
+  "paths": {
+    "zippedPackage": "solution/poc-rich-text.sppkg"
+  }
+}

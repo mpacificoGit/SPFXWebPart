@@ -1,0 +1,11 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "isCreatingSolution": true,
+    "environment": "onprem19",
+    "version": "1.10.0",
+    "libraryName": "poc-rich-text",
+    "libraryId": "62b7ce9e-839e-45e5-8307-661e26f5f9ca",
+    "packageManager": "npm",
+    "componentType": "webpart"
+  }
+}
